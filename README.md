@@ -25,6 +25,18 @@ Atividades da disciplina de POO
 * Quanto tempo levou pra fazer a atividade
   * Levei de dois à três dias pra terminar a atividade completa
   
+## 3 - PET
+* O que você fez
+  * fiz todo o código
+* Com quem e como você fez
+  * sozinha, assistindo o vídeo da aula e montando o código
+* O que aprendeu e sabe fazer
+  * aprendi a interpretar e criar os atributos, métodos da classe, a diferenciar get e set  
+* O que tem dificuldade ainda
+  * Com algumas funções do java
+* Quanto tempo levou pra fazer a atividade
+  * Levei uns 5 dias pra concluir
+  
 ## 5 - topic
 * O que você fez
   * fiz todo o código
