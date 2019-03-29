@@ -5,7 +5,7 @@ Atividades da disciplina de POO
 * O que você fez
   * fiz todo o código
 * Com quem e como você fez
-  * meu namorado explicou como funciona a lógica do código e eu consegui resolver a questão usando a plataforma kaggle
+  * meu namorado me ajudou com a lógica e a construir o código
 * O que aprendeu e sabe fazer
   * aprendi a criar outros atributos e métodos para a classe Carro 
 * O que tem dificuldade ainda
@@ -17,13 +17,13 @@ Atividades da disciplina de POO
 * O que você fez
   * fiz todo o código
 * Com quem e como você fez
-  * meu namorado explicou como funciona a lógica do código e eu consegui resolver grande parte da questão, o resto eu terminei em aula
+  * meu namorado me ajudou com a lógica e a construir o código
 * O que aprendeu e sabe fazer
   * aprendi a interpretar e criar os atributos e métodos da classe  
 * O que tem dificuldade ainda
   * Acredito que com nada
 * Quanto tempo levou pra fazer a atividade
-  * Levei de dois à três dias pra terminar a atividade completa
+  * Levei três dias pra terminar a atividade completa
   
 ## 3 - PET
 * O que você fez
