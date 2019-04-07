@@ -51,7 +51,7 @@ Atividades da disciplina de POO
 
 ## 5 - agiota
 * O que você fez
-  * consegui fazer algumas partes do código sozinha, inicializar a classe cliente e o contrutor da classe e uma parte da classe Controller, o resto eu fiz assistindo o vídeo aula da atividade.
+  * consegui fazer algumas partes do código sozinha, inicializar a classe cliente, o contrutor da classe ruma parte da classe Controller, o resto eu fiz assistindo o vídeo aula da atividade.
 * Com quem e como você fez
   * fiz sozinha, tentando iniciar o código sozinha olhando a sintaxe pelos outros exercícios, assistindo o vídeo da aula e refazendo o código
 * O que aprendeu e sabe fazer
