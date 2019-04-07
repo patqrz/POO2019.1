@@ -15,15 +15,15 @@ Atividades da disciplina de POO
   
 ## 2 - calculadora
 * O que você fez
-  * fiz todo o código
+  * fiz todo o código em JAVA e PYTHON
 * Com quem e como você fez
-  * meu namorado me ajudou com a lógica e a construir o código
+  * meu namorado me ajudou com a lógica e a construir o código em python. Em java, eu fiz sozinha olhando a sintaxe dos outros códigos.
 * O que aprendeu e sabe fazer
   * aprendi a interpretar e criar os atributos e métodos da classe  
 * O que tem dificuldade ainda
-  * Acredito que com nada
+  * Tive um pouco de dificuldade no código em JAVA, na parte do Controller, pra definir a posição das variáveis, mas deu tudo certo 
 * Quanto tempo levou pra fazer a atividade
-  * Levei três dias pra terminar a atividade completa
+  * Levei três dias pra terminar a atividade completa em Python. Em Java levei 4 horas
   
 ## 3 - PET
 * O que você fez
@@ -46,5 +46,17 @@ Atividades da disciplina de POO
   * aprendi a criar classes, variáveis e fazer um pouco da interação com o usuário  
 * O que tem dificuldade ainda
   * Com algumas funções do java, ainda fico confusa construindo o código
+* Quanto tempo levou pra fazer a atividade
+  * Três dias
+
+## 5 - agiota
+* O que você fez
+  * consegui fazer algumas partes do código sozinha, inicializar a classe cliente e o contrutor da classe e uma parte da classe Controller, o resto eu fiz assistindo o vídeo aula da atividade.
+* Com quem e como você fez
+  * fiz sozinha, tentando iniciar o código sozinha olhando a sintaxe pelos outros exercícios, assistindo o vídeo da aula e refazendo o código
+* O que aprendeu e sabe fazer
+  * aprendi a criar listas, significado de alguns comandos como "@Override", "find", "null" e ":"  
+* O que tem dificuldade ainda
+  * tenho um pouco de dificuldade em como definir de forma precisa o tipo do método, se é public void, só void... Tive difuldade em entender uma parte do Controller, não consegui reproduzir
 * Quanto tempo levou pra fazer a atividade
   * Três dias
