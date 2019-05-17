@@ -6,7 +6,7 @@ class Carro {
 	float km;
 	float gas;
 	float gasMax;
-	
+
 	public Carro(int pessoas, float km, float gas) { //Construtor
 		this.pessoas = pessoas;
 		this.km = km;
