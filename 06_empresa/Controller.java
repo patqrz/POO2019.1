@@ -29,9 +29,17 @@ class Gerente extends Funcionario {
 		super(nome, cpf, salario);
 		this.senha = senha;
 		this.nomeFuncionarioGerenciados = nomeFuncionarioGerenciados;
-		
 	}
-
+	
+	public boolean autentica(int senha) {
+		if (this.senha == senha) {
+			System.out.println("Acesso permitido");
+			return true;
+		}else {
+			System.out.println("Acesso negado");
+			return false;
+		}
+	}
 
 	public double getBonificacao() {
 		return this.salario * 0.15;
