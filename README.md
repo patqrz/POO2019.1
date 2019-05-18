@@ -60,3 +60,16 @@ Atividades da disciplina de POO
   * tenho um pouco de dificuldade em como definir de forma precisa o tipo do método, se é public void, só void... Tive difuldade em entender uma parte do Controller, não consegui reproduzir
 * Quanto tempo levou pra fazer a atividade
   * Três dias
+  
+  ## 6 - empresa
+* O que você fez
+  * peguei a base do código na apostila da Caelum, no cap. 9, e acrescentei um método e atributos.
+* Com quem e como você fez
+  * fiz sozinha na aula de POO, com instruções do professor.
+* O que aprendeu e sabe fazer
+  * aprendi a usar herenças e a função super(). 
+* O que tem dificuldade ainda
+  * lembrar de colocar a função super().
+* Quanto tempo levou pra fazer a atividade
+  * 1h30
+  
