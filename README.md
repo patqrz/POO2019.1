@@ -73,3 +73,14 @@ Atividades da disciplina de POO
 * Quanto tempo levou pra fazer a atividade
   * 1h30
   
+  ## avaliação - conta bancária
+* O que você fez
+  * criei três classes (Conta, contaCorrente e contaPoupança), os atributos, extendi a duas classes da classe Conta, criei métodos de sacar, depositar, tarifa e aumento.
+* Com quem e como você fez
+  * fiz assistindo os vídeos antigos e buscando referência pelos códigos anteriores (principalmente do agiota).
+* O que aprendeu e sabe fazer
+  * aprendi a usar herenças e a função super(). 
+* O que tem dificuldade ainda
+  * tive dificuldade em muitas coisas, no Controller, em criar um método pra fazer transferência... o código ficou incompleto, porém, irei finaliza-lo posteriormente.
+* Quanto tempo levou pra fazer a atividade
+  * 2 dias
