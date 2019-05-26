@@ -1,14 +1,16 @@
+package agiota1;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 class Cliente {
 	float saldo;
 	String id;
 	String fullname;
 	
-	public Cliente(float saldo, String id, String fullname) {
+	public Cliente(String id, String fullname) {
 		this.saldo = 0;
 		this.id = id;
-		this.fullname = fullname
+		this.fullname = fullname;
 	}
 	
 	//rastreia se os pontos do código de uma classe sobrescrita foi alterada ou removida
@@ -25,15 +27,15 @@ class Sistema {
 	
 	public Sistema(float saldo) {
 		this.saldo = saldo;
-		this.clientes = new Arraylist<Cliente()>;
+		this.clientes = new ArrayList<Cliente>();
 	}
 	
-	void cadastrar(Cliente clientes) {
+	void cadastrar(Cliente cliente) {
 		//find encontra um elemento na lista
 		//null se usa quando quer dizer que o argumento é nulo/cancelado
 		if(this.findCliente(cliente.id) != null) {
 			System.out.println("fail: id ja existe");
-		return;
+			return;
 		}
 		clientes.add(cliente);
 	}
@@ -85,7 +87,15 @@ public class Controller {
             }else if(ui[0].equals("emprestar")){
                 sistema.emprestar(ui[1], Float.parseFloat(ui[2]));
             }else if(ui[0].equals("cadastrar")){
-                String id = ui[1];
+            	String id = ui[1];
+                String fullname = "" ;
+                for (int i = 2; i < ui.length; i++){
+                    fullname += ui[1] + " ";
+                }
+                fullname = fullname.substring(0,fullname.length() - 1);
+                sistema.cadastrar(new Cliente(id, fullname));
+            }else {
+                System.out.println("fail:comando invalido");
             }
         }
     }
