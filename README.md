@@ -85,3 +85,15 @@ Atividades da disciplina de POO
 * Quanto tempo levou pra fazer a atividade
   * 2 dias
 * OBS.: Não sei porque quando subo o código para o repositório, ele sai da indentação 
+
+  ## 7 - cálculo de salário
+* O que você fez
+  * eu consegui fazer sozinha uma boa parte das classes Sistema, Funcionario, Professor, STA, Terceirizado e o Controller, porém, o jeito que eu estava fazendo não estava sendo fácil de prosseguir, então empaquei em algumas partes. Assisti muito vídeo aula pra ajudar na construção do código.
+* Com quem e como você fez
+  * depois de tentar muito, quebrar a cabeça sozinha, eu falei com a Alice pra gente tentar fazer juntas, ficamos cerca de 3 horas quebrando a cabeça e nada do código rodar direito. Depois apareceu o Guilherme que estava ajudando a Paola com a mesma questão, e nos ofereceu ajuda com o código. Ele explicou o jeito que ele tinha conseguido resolver a questão, usando get e set e facilitou pra gente a finalizar o código. Eu reformei quase todo o código que eu tinha feito, baseado no que ele explicou. Então fiz essa questão com a Alice, Guilherme e Paola. Me inspirei muito nas questões agiota e figurinhas.
+* O que aprendeu e sabe fazer
+  * aprendi a aprofundar o conhecimento que eu tinha em herança e poliformismo, resgatei o uso dos gets e sets que só tinha usado com precisão na questão do PET. 
+* O que tem dificuldade ainda
+  * eu tive muita dificuldade de prosseguir com o racícinio da questão, eu lia o enunciado, arquitetava a lógica, mas não conseguia passar tudo para o código, principalmente quando dava erro, fico muito frustrada quando isso acontece. Eu consigo ser melhor quando tenho um auxílio por perto, porque duas ou mais mentes pensam melhor do que uma
+* Quanto tempo levou pra fazer a atividade
+  * comecei a escrever o código na quinta (20/06) e terminei no sábado (22/06)
