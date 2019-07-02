@@ -109,3 +109,15 @@ Atividades da disciplina de POO
   * tive muita dificuldade de desenvolver o código sozinha, tentei fazer algumas coisas sozinha, mas acabei me auxiliando pelo código do professor.
 * Quanto tempo levou pra fazer a atividade
   * 5 dias
+
+## 9 - agência
+* O que você fez
+  * fiz uma parte do código que o professor fez em sala
+* Com quem e como você fez
+  * fiz pelo vídeo, olhando o código e reproduzindo. Como eu já havia feito questões parecidas, eu consegui me basear pelo o que eu já sabia.
+* O que aprendeu e sabe fazer
+  * reforçar o aprendizado em polimorfismo, herança e mapa.
+* O que tem dificuldade ainda
+  * a mesma dificuldade de desenvolver o código sozinha por inteiro.
+* Quanto tempo levou pra fazer a atividade
+  * 1 dia
