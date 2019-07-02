@@ -97,3 +97,15 @@ Atividades da disciplina de POO
   * eu tive muita dificuldade de prosseguir com o racícinio da questão, eu lia o enunciado, arquitetava a lógica, mas não conseguia passar tudo para o código, principalmente quando dava erro, fico muito frustrada quando isso acontece. Eu consigo ser melhor quando tenho um auxílio por perto, porque duas ou mais mentes pensam melhor do que uma
 * Quanto tempo levou pra fazer a atividade
   * comecei a escrever o código na quinta (20/06) e terminei no sábado (22/06)
+  
+## 8 - twitter
+* O que você fez
+  * fiz uma parte do código que o professor fez em sala
+* Com quem e como você fez
+  * fiz pelo vídeo, olhando o código e reproduzindo
+* O que aprendeu e sabe fazer
+  * reforçar o aprendizado em exceções e a manipulação dos objetos 
+* O que tem dificuldade ainda
+  * tive muita dificuldade de desenvolver o código sozinha, tentei fazer algumas coisas sozinha, mas acabei me auxiliando pelo código do professor.
+* Quanto tempo levou pra fazer a atividade
+  * 5 dias
